@@ -19366,7 +19366,7 @@ resolve@^2.0.0-next.3:
     retry: 0.13.1
     start-server-nestjs-webpack-plugin: 2.2.5
     stream-browserify: 3.0.0
-    strip-ansi: 6.0.0
+    strip-ansi: 7.0.0
     stylelint: 13.13.1
     stylelint-config-recommended: 5.0.0
     supertest: 6.1.4
@@ -20055,6 +20055,15 @@ resolve@^2.0.0-next.3:
   languageName: node
   linkType: hard
 
+"strip-ansi@npm:7.0.0, strip-ansi@npm:^7.0.0":
+  version: 7.0.0
+  resolution: "strip-ansi@npm:7.0.0"
+  dependencies:
+    ansi-regex: ^6.0.0
+  checksum: b79ca6137266515fed4ca475afc04304a4c5db5fa4b37f07a724a43bd0ce7317791009c832766297874efe6a2ea3e0428b450aba48feab591a4ad5523e27cc2f
+  languageName: node
+  linkType: hard
+
 "strip-ansi@npm:^0.3.0":
   version: 0.3.0
   resolution: "strip-ansi@npm:0.3.0"
@@ -20090,15 +20099,6 @@ resolve@^2.0.0-next.3:
   dependencies:
     ansi-regex: ^4.1.0
   checksum: bdb5f76ade97062bd88e7723aa019adbfacdcba42223b19ccb528ffb9fb0b89a5be442c663c4a3fb25268eaa3f6ea19c7c3fbae830bd1562d55adccae1fcec46
-  languageName: node
-  linkType: hard
-
-"strip-ansi@npm:^7.0.0":
-  version: 7.0.0
-  resolution: "strip-ansi@npm:7.0.0"
-  dependencies:
-    ansi-regex: ^6.0.0
-  checksum: b79ca6137266515fed4ca475afc04304a4c5db5fa4b37f07a724a43bd0ce7317791009c832766297874efe6a2ea3e0428b450aba48feab591a4ad5523e27cc2f
   languageName: node
   linkType: hard
 
