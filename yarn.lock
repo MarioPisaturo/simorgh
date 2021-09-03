@@ -1829,12 +1829,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@bbc/psammead-detokeniser@npm:1.0.6":
-  version: 1.0.6
-  resolution: "@bbc/psammead-detokeniser@npm:1.0.6"
+"@bbc/psammead-detokeniser@npm:1.0.7":
+  version: 1.0.7
+  resolution: "@bbc/psammead-detokeniser@npm:1.0.7"
   peerDependencies:
     react: ">=16.9.0"
-  checksum: e816403ae5294ca08521110e3fdfc03cb0b8cf4d3e172bc737f6e2c0af05747d8092d8ed84caea371ceb22cc8ffff89125a21925af15083a46b545370aa424dd
+  checksum: 694d9f2e0f9d52722f3f0373fe0f925dc9c15580dd3b94204be36f67cdbf1904212b14c9f38855f3c6d22297b981982a6c1a56212c71cdf68ba93e11c4bf299a
   languageName: node
   linkType: hard
 
@@ -1899,16 +1899,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@bbc/psammead-image-placeholder@npm:3.2.2":
-  version: 3.2.2
-  resolution: "@bbc/psammead-image-placeholder@npm:3.2.2"
+"@bbc/psammead-image-placeholder@npm:3.3.0":
+  version: 3.3.0
+  resolution: "@bbc/psammead-image-placeholder@npm:3.3.0"
   dependencies:
     "@bbc/psammead-assets": 3.1.9
     "@bbc/psammead-styles": 7.3.0
   peerDependencies:
     "@emotion/styled": ^11.0.0
     react: ">=16.9.0"
-  checksum: 796e120bd0f9b6720e521ac504933f69c2ab022daee9e28148e02e68c49883cd49f99bb3216e18079b7a9323ffb18f3c5b92f9ef591ea52250592b4a2e8b5af1
+  checksum: 3e94a31b71b98266bc6146b0d4b7e5eb9393aa2b02520c427e48decbbbc0ffb9962183bad3350ffb0d28a1e92525c010c12f57b669a33b0870b091b06241a61b
   languageName: node
   linkType: hard
 
@@ -2130,10 +2130,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@bbc/psammead-test-helpers@npm:6.0.4":
-  version: 6.0.4
-  resolution: "@bbc/psammead-test-helpers@npm:6.0.4"
-  checksum: 17022d9539da4499cecbc70b9835848bf78f6c9a73491bc94c090bc7676b5deecb5ffed32721cad3dd8116c1798b1a752d0d944999dd8cb7cb037fabde433b6f
+"@bbc/psammead-test-helpers@npm:6.0.5":
+  version: 6.0.5
+  resolution: "@bbc/psammead-test-helpers@npm:6.0.5"
+  checksum: 24927b6b7bf36bbfe908af4f3b4e343796ad9e4d3f9933d052df8d73e33cebf7fba28a8dab8413adbd65f4684511aab48f7d9925faf23a70937dd86bce9d9faf
   languageName: node
   linkType: hard
 
@@ -2212,16 +2212,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@bbc/web-vitals@npm:1.0.8":
-  version: 1.0.8
-  resolution: "@bbc/web-vitals@npm:1.0.8"
+"@bbc/web-vitals@npm:1.0.9":
+  version: 1.0.9
+  resolution: "@bbc/web-vitals@npm:1.0.9"
   dependencies:
     cross-fetch: ^3.1.4
     react-adaptive-hooks: 0.0.8
-    web-vitals: ^1.1.1
+    web-vitals: ^2.0.0
   peerDependencies:
     react: ">=16.9.0"
-  checksum: c6703016055479c46f690fc99536e507a0725f14992ea51d825e18f89aab1e17ba63a01db074e93c2fda64d4ce7f294a9a7fca279218449a6a6ee556081ddfc9
+  checksum: 4ac3d10ee66c34f620599238e251701a178c584aa928775727e38cfd42c25eb3226d2ada3d04bb314ef6769b45fe001226d4ea5f24f684b458b5a6929607b7b8
   languageName: node
   linkType: hard
 
@@ -19233,14 +19233,14 @@ resolve@^2.0.0-next.3:
     "@bbc/psammead-caption": 4.1.14
     "@bbc/psammead-consent-banner": 5.5.3
     "@bbc/psammead-copyright": 3.0.19
-    "@bbc/psammead-detokeniser": 1.0.6
+    "@bbc/psammead-detokeniser": 1.0.7
     "@bbc/psammead-embed-error": 3.0.22
     "@bbc/psammead-figure": 2.0.10
     "@bbc/psammead-grid": 3.1.2
     "@bbc/psammead-heading-index": 3.0.18
     "@bbc/psammead-headings": 5.0.18
     "@bbc/psammead-image": 2.0.8
-    "@bbc/psammead-image-placeholder": 3.2.2
+    "@bbc/psammead-image-placeholder": 3.3.0
     "@bbc/psammead-inline-link": 3.0.16
     "@bbc/psammead-live-label": 2.0.21
     "@bbc/psammead-locales": 5.0.7
@@ -19256,13 +19256,13 @@ resolve@^2.0.0-next.3:
     "@bbc/psammead-story-promo-list": 6.0.19
     "@bbc/psammead-storybook-helpers": 9.0.14
     "@bbc/psammead-styles": 7.3.0
-    "@bbc/psammead-test-helpers": 6.0.4
+    "@bbc/psammead-test-helpers": 6.0.5
     "@bbc/psammead-timestamp": 4.0.19
     "@bbc/psammead-timestamp-container": 5.0.30
     "@bbc/psammead-topic-tags": 1.0.0
     "@bbc/psammead-useful-links": 3.0.20
     "@bbc/psammead-visually-hidden-text": 2.0.7
-    "@bbc/web-vitals": 1.0.8
+    "@bbc/web-vitals": 1.0.9
     "@emotion/babel-plugin": 11.3.0
     "@emotion/cache": 11.4.0
     "@emotion/jest": 11.3.0
